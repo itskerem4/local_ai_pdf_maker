@@ -38,7 +38,7 @@ pip install fpdf
 ### 3. Download the DejaVuSans Font
 Place the `DejaVuSans.ttf` font file in the same directory as the Python script.
 
-You can download the font from the official [DejaVu Fonts GitHub](https://github.com/dejavu-fonts/dejavu-fonts/raw/master/ttf/DejaVuSans.ttf).
+You can download the font from the official [DejaVu Fonts GitHub](https://github.com/prawnpdf/prawn/blob/master/data/fonts/DejaVuSans.ttf).
 
 ---
 
@@ -138,7 +138,7 @@ pip install fpdf
 ### 3. DejaVuSans Fontunu İndirme
 `DejaVuSans.ttf` dosyasını Python betiği ile aynı klasöre koyun.
 
-Font dosyasını [DejaVu Fonts GitHub](https://github.com/dejavu-fonts/dejavu-fonts/raw/master/ttf/DejaVuSans.ttf) bağlantısından indirebilirsiniz.
+Font dosyasını [DejaVu Fonts GitHub]([https://github.com/dejavu-fonts/dejavu-fonts/raw/master/ttf/DejaVuSans.ttf](https://github.com/prawnpdf/prawn/blob/master/data/fonts/DejaVuSans.ttf)) bağlantısından indirebilirsiniz.
 
 ---
 
