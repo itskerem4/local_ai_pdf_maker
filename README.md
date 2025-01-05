@@ -63,13 +63,13 @@ You can download the font from the official [DejaVu Fonts GitHub](https://github
 
 ### Input:
 ```
-Lütfen Model Adını Tam Olarak Giriniz: llama3.2:3b
-Lütfen Modelinize göndermek istediğiniz promptu girin: Türkiye'nin başkenti neresidir?
-Lütfen Dosya Adı Belirtin: baskent
+Please Enter Exact Model Name: llama3.2:3b
+Please enter the prompt you want to send to your Model: What is the capital of Turkey?
+Please Specify File Name: capital
 ```
 
 ### Output:
-- A PDF file named `baskent.pdf` containing the model's response:
+- A PDF file named `capital.pdf` containing the model's response:
 ```
 Ankara.
 ```
@@ -123,7 +123,7 @@ Bu Python betiği, Ollama CLI üzerinden yerel olarak kurulu LLaMA modeline bağ
 ## Gereksinimler
 
 ### 1. Ollama CLI Kurulumu
-Ollama CLI'nin sisteminize kurulu ve doğru şekilde yapılandırıldığından emin olun. CLI'yı [Ollama'nın resmi web sitesi](https://ollama.ai/) üzerinden indirebilirsiniz.
+Ollama CLI'nın sisteminize kurulu ve doğru şekilde yapılandırıldığından emin olun. CLI'yı [Ollama'nın resmi web sitesi](https://ollama.ai/) üzerinden indirebilirsiniz.
 
 ### 2. Python Kütüphaneleri
 Betik, aşağıdaki Python kütüphanelerine ihtiyaç duyar:
@@ -163,9 +163,9 @@ Font dosyasını [DejaVu Fonts GitHub](https://github.com/dejavu-fonts/dejavu-fo
 
 ### Girdi:
 ```
-Lütfen Model Adını Tam Olarak Giriniz: llama3.2:3b
-Lütfen Modelinize göndermek istediğiniz promptu girin: Türkiye'nin başkenti neresidir?
-Lütfen Dosya Adı Belirtin: baskent
+Please Enter Exact Model Name: llama3.2:3b
+Please enter the prompt you want to send to your Model: Türkiye'nin başkenti neresidir?
+Please Specify File Name: baskent
 ```
 
 ### Çıktı:
